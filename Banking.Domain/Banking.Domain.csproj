@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Banking.Console\Banking.Console.csproj" />
-  </ItemGroup>
-
 </Project>
