@@ -1,7 +1,6 @@
-oop-assignment-3-A-2024-74154
 Gabriel Blauth de Araujo
 
-DESCRIPITION OF ASSIGMENT WORK:
+DESCRIPITION OF WORK:
 I have been working on a C# banking application whereby the user, whether an employee or customer, is able to interact with the banking application in performing account management, transactions, and transaction history.
 
 - Account Management: I created several classes to manage different types of accounts, including Account, CurrentAccount, and SavingsAccount. These classes handle the basic properties and behaviors of bank accounts, such as account name generation, balance management, and transaction handling-deposits and withdrawals.
